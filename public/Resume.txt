@@ -1,0 +1,88 @@
+MARSHA BROWN
+QA Tester
+
+marshabrown@gmail.com
++1-876-588-8073
+https://github.com/Marsha452
+Jamaica
+
+Summary
+======
+Perceptive Entry Level Quality Assurance Tester applying knowledge of quality assurance testing to ensure the quality and safe operation of various parts and components. Adept at identifying quality issues. Committed to ensuring that quality standards are upheld to promote optimal customer satisfaction.
+
+
+PROJECTS
+======
+Roofing
+01/2023 - Ongoing
+https://roofing-pearl.vercel.app/
+The previous website design was causing frustration and negative feedback from customers and the team. Therefore, a redesign was necessary to improve user experience and satisfaction, and to increase overall engagement and conversion rates.Technoligies used:
+ - HTML
+ - CSS
+ - Git
+ - Vercel
+
+QA Tester
+GameifyD
+01/2014 - 01/2016
+Naperville, IL
+GameifyD is a company that specializes in mobile game development. 
+ - Implemented all audio and scripted functionality for 2 Disney games
+ - Automation of web and desktop applications which increased velocity in testing team by 20 % within 2 months
+ - Contributed to reducing the testing cycle of the company products by 50% via better test analysis and strategy
+ - Helped to perform more than 10 successful releases to the market
+ - Provided 100+ bug reports with detailed descriptions to development teams
+
+Data Analyst
+EntZ
+01/2012 - 01/2014
+Los Angeles, LA
+EntZ is a leading renewable energy company that manages and operates power plants that generate renewable energy resources.
+ - Created 50+ quick data extractions on demand
+ - Collated data from 5 data sources and built a model that increased the revenue by around 20%
+ - Defined implementation roadmap to consolidate data from 50 product processing systems into data warehouse
+ - Database management, data quality and integrity; maintained a 99% data accuracy standard
+ - Tackled close to 50 data analyses per month
+
+
+Industry Expertise
+======
+Agile Scrum
+
+Test Scripts
+
+User Interface
+
+Developer Software
+
+
+Skills
+======
+ - Test Scripts
+
+ - 
+Business Process
+
+ - Jira
+
+ - Selenium
+ - Quick Test Professional
+ - Project Management
+ - QA
+ - PL/SQL
+ - Bug Fixes
+ - DWH
+ -  User Interface
+
+
+Strengths
+======
+Critical Thinking
+Good at conceptualizing and evaluating critical information, especially when it comes to decision-making.
+
+Creativity
+My creativity helped me think outside the box and apply innovative ideas into my personal and professional life.
+
+Goal-setting
+SMART goals are the main factor for my success, as they helped me act as a professional.
+
